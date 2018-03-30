@@ -18,7 +18,7 @@ import static android.R.attr.name;
 import static android.R.attr.order;
 
 /**
- * Comments for changing the code for git updates.
+ * Comments for changing the code for git updates.  Adding more comments here.
  */
 
 /**
