@@ -18,6 +18,10 @@ import static android.R.attr.name;
 import static android.R.attr.order;
 
 /**
+ * Comments for changing the code for git updates.
+ */
+
+/**
  * This app displays an order form to order coffee.
  */
 public class MainActivity extends AppCompatActivity {
